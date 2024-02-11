@@ -34,7 +34,7 @@
     <li>Run the <code>currency_converter.py</code> file using Python.</li>
 </ol>
 
-<h2>Notes</h2>
+<h2>Note</h2>
 <ul>
     <li>Ensure that your computer has an active internet connection to fetch real-time exchange rates.</li>
     <li>Exchange rates are fetched from an external API, so occasional fluctuations or downtime may occur.</li>
