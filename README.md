@@ -1,4 +1,4 @@
-![logo](https://github.com/Muhammad-Maaiz/Currency-Convertor/assets/157501398/9ea8eb45-6953-4326-b5f9-5c1616a89ceb)
+![logo](https://github.com/Muhammad-Maaiz/Currency-Convertor/assets/157501398/3824dcbf-10ce-4adb-81b9-081a16646479)
 
 <h1>Currency Converter</h1>
 <p>This is a simple currency converter application implemented in Python using the Tkinter library. It fetches real-time exchange rates from an external API and allows users to convert between different currencies.</p>
