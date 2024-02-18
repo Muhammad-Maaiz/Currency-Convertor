@@ -101,19 +101,19 @@ if exchange_rates:
     style.theme_create("fancy", parent="alt", settings={
         "TButton": {
             "configure": {
-                "background": "green",  # Green button background
+                "background": "blue",  # blue button background
                 "foreground": "white",
                 "padding": 10,
                 "font": ('Helvetica', 12),
             },
             "map": {
-                "background": [("active", "dark green")],  # Dark green on click
+                "background": [("active", "dark blue")],  # Dark blue on click
             },
         },
         "TLabel": {
             "configure": {
                 "font": ('Helvetica', 12, 'bold'),  # Bold and larger font
-                "background": "light blue",  # Light blue label background
+                "background": "aqua",  # Aqua label background
                 "foreground": "dark blue",  # Dark blue text color
             },
         },
@@ -124,7 +124,7 @@ if exchange_rates:
         },
         "TFrame": {
             "configure": {
-                "background": "light blue",  # Light blue frame background
+                "background": "aqua",  # Aqua frame background
             },
         },
     })
